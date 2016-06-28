@@ -50,3 +50,10 @@ You still need to finish 145 problems. They are:
 [354, 355, 356, 357, 358, 359]
 
 
+
+
+You need to revisit 10 problems.
+
+[54, 59, 87, 105, 106, 107, 109, 110, 113, 312]
+
+
